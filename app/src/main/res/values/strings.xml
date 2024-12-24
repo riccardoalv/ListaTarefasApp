@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListaTarefasApp</string>
+    <string name="add_task">Adicionar Tarefa</string>
+    <string name="save_task">Salvar</string>
+    <string name="task_hint">Digite uma tarefa</string>
+    <string name="task_placeholder">Exemplo: Ir para aula</string>
+    <string name="delete_task">Deletar</string>
+</resources>
